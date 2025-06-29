@@ -17,7 +17,7 @@ public class ProductManager {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap ID: ");
         int id = Integer.parseInt(sc.nextLine());
-        System.out.print("Nhap ten sp: ");
+        System.out.print("Nhap ten san pham: ");
         String name = sc.nextLine();
         System.out.print("Nhap gia sp: ");
         double price = Double.parseDouble(sc.nextLine());
