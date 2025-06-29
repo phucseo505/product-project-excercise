@@ -51,6 +51,30 @@ public class Product {
         this.quantity = quantity;
     }
 
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+    public String getSize() {
+        return size;
+    }
+
+    public void setSize(String size) {
+        this.size = size;
+    }
+
+    public String getAbc() {
+        return abc;
+    }
+
+    public void setAbc(String abc) {
+        this.abc = abc;
+    }
+
     @Override
     public String toString() {
         return "SanPham{" +
