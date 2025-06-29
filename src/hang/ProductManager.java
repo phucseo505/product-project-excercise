@@ -12,7 +12,7 @@ public class ProductManager {
     public ProductManager() {
         sp = new ArrayList<>();
     }
-
+    //commit cua thanh
     public void add() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap ID: ");
