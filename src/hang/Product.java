@@ -8,7 +8,7 @@ public class Product {
     private String color;
     private String size;
     private String abc;
-
+    //as
     public Product() {
     }
 
